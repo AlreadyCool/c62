@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#App {
+    background-color: rgb(0, 136, 255);
+}
+
+#myCarousel {
+    background-color: color-mix(in srgb, color percentage, color percentage);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-top: 15px;
+    color: slategrey;
+    font-size: 20px;
+}
